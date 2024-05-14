@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'Analogue Clock/AnalogueClock.dart';
 import 'Digital Clock/DigitalClock.dart';
+import 'Strap Clock/StrapClock.dart';
 
 void main()
 {
@@ -19,6 +20,7 @@ class ClockApp extends StatelessWidget {
       routes: {
         '/' : (context) => digitalClock(),
         '/analog' : (context) => analogueClock(),
+        '/strap' : (context) => Strap(),
       },
     );
   }

@@ -127,10 +127,15 @@ class _digitalClockState extends State<digitalClock> {
               ),
             ),
             SizedBox(width: 38,),
-            Container(
-              height: 60,
-              width: 70,
-              child: Icon(Icons.timelapse,size: 34,color: Colors.grey,),
+            InkWell(
+              onTap: () {
+                Navigator.of(context).pushNamed('/strap');
+              },
+              child: Container(
+                height: 60,
+                width: 70,
+                child: Icon(Icons.timelapse,size: 34,color: Colors.grey,),
+              ),
             ),
           ],
         ),
