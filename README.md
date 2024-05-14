@@ -147,3 +147,20 @@ Timer.periodic(const Duration(seconds: 2), (timer) {
  <video src="https://github.com/HirenCodeMaster11/timer_daily_task/assets/148859956/c285d562-67d1-4e5d-b46a-9fc442be3939.mp4" type="video/mp4"> 
 </video>
 </div>
+
+<h2 align="center">4.2. Strap Watch </h2>
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/timer_daily_task/assets/148859956/8657b564-fb36-490c-b40e-870712cc9cc0" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/timer_daily_task/blob/master/lib/Strap%20Clock/StrapClock.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center">3.2. Analogue Clock Recording </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+ <video src="https://github.com/HirenCodeMaster11/timer_daily_task/assets/148859956/48578519-6af2-45db-8c51-94013f58b185.mp4" type="video/mp4"> 
+</video>
+</div>
