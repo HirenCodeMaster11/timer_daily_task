@@ -1,19 +1,4 @@
-# time_daily_task
-
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 <h1 align="center">👉 Timer Daily Task 👈</h1>
 
@@ -127,3 +112,38 @@ Timer.periodic(const Duration(seconds: 2), (timer) {
   }
 });
 ```
+<h2 align="center">3.1. Digital Clock </h2>
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/timer_daily_task/assets/148859956/a0fd1029-9ffd-4896-abd2-f55ce8727620" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/timer_daily_task/blob/master/lib/Digital%20Clock/DigitalClock.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center">3.2. Digital Clock Recording </h2>
+
+<h1 align="left"></h1>
+
+<div align="center">
+ <video src="https://github.com/HirenCodeMaster11/timer_daily_task/assets/148859956/c7dbf38a-475f-4d0a-9213-409e326809eb.mp4" type="video/mp4"> 
+</video>
+</div>
+
+<h2 align="center">4.1. Analogue Clock </h2>
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/timer_daily_task/assets/148859956/db2d7533-bbdf-43ac-97ed-8f595ef6f308" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/timer_daily_task/blob/master/lib/Analogue%20Clock/AnalogueClock.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center">3.2. Analogue Clock Recording </h2>
+
+<h1 align="left"></h1>
+
+<div align="center">
+ <video src="https://github.com/HirenCodeMaster11/timer_daily_task/assets/148859956/c285d562-67d1-4e5d-b46a-9fc442be3939.mp4" type="video/mp4"> 
+</video>
+</div>
